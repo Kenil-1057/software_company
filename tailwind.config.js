@@ -31,7 +31,10 @@ module.exports = {
         'subheading': '#4A5568',
         'linear1':'#DE4396',
         'linear2':'#0D1C9F',
-        'forth':'#8B58A3' 
+        'forth':'#8B58A3',
+        'logo_bac':'#F7F7FA',
+        'card':'#F1F2FF',
+        'card_text':'#2D3748', 
       },
       padding:{
         '10':'10px',
@@ -44,9 +47,16 @@ module.exports = {
       lineHeight: {
         '70': '70px',
         '55':'55px',
+        '14':'14px'
       },
-
-
+      fontSize:{
+        '28':'28px',
+        '14':'14px'
+      },
+      borderRadius:{
+        '30':'30px',
+        '0' :'0px'
+      }
     },
   },
   plugins: [],

@@ -51,6 +51,13 @@ body{
     -webkit-background-clip: text; 
 }
 
+.gradient_card_text{
+    background: linear-gradient(#F76680,#57007B
+    );
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+}
+
 .change-color {
     color: #57007B !important;
 }
