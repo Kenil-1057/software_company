@@ -34,7 +34,9 @@ module.exports = {
         'forth':'#8B58A3',
         'logo_bac':'#F7F7FA',
         'card':'#F1F2FF',
-        'card_text':'#2D3748', 
+        'card_text':'#2D3748',
+        'card_text_highlight' : '#AC367E',
+        'designation':'#718096' 
       },
       padding:{
         '10':'10px',
@@ -47,7 +49,8 @@ module.exports = {
       lineHeight: {
         '70': '70px',
         '55':'55px',
-        '14':'14px'
+        '14':'14px',
+        '30':'30px',
       },
       fontSize:{
         '28':'28px',
