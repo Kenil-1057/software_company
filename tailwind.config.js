@@ -36,7 +36,12 @@ module.exports = {
         'card':'#F1F2FF',
         'card_text':'#2D3748',
         'card_text_highlight' : '#AC367E',
-        'designation':'#718096' 
+        'designation':'#718096',
+        'development':'#29272E',
+        'development_border':'#E7DAED',
+        'gradient_1': '#F1F1F5',
+        'gradient_2':'#E4ECF7',
+         
       },
       padding:{
         '10':'10px',
@@ -45,12 +50,15 @@ module.exports = {
       },
       margin:{
         '75':'75px',
+        '72':'72px',
+        '10':'10px'
       },
       lineHeight: {
         '70': '70px',
         '55':'55px',
         '14':'14px',
         '30':'30px',
+        '22':'22px',
       },
       fontSize:{
         '28':'28px',
@@ -58,8 +66,15 @@ module.exports = {
       },
       borderRadius:{
         '30':'30px',
-        '0' :'0px'
-      }
+        '0' :'0px',
+        '20':'20px',
+      },
+      borderWidth: {
+        '1':'1px',
+      },
+      letterSpacing: {
+        '-0.5': '-0.005em', 
+      },
     },
   },
   plugins: [],

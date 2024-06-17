@@ -71,3 +71,11 @@ body{
     color: #57007B !important;
 }
 
+.technologies:hover{
+    background: linear-gradient(#F76680,#57007B
+
+    );
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text;
+}
+
